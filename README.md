@@ -1,2 +1,2 @@
 # npuzzleSolver
-solves nXm size puzzle using A* algorithm
+a JAVA program that solves nXm size puzzle using A* algorithm 
